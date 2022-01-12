@@ -36,9 +36,10 @@ module.exports =
         {
             colors:
             {
-                'primary': "#1d2124",
-                'secondary': "#363738",
-                'third': "#fdb82b",
+                'primary': "#1d202b",
+                'secondary': "#313743",
+                
+                'symbol-btn': "#d17224",
             },
 
             fontFamily: 
